@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamshellyan
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Comptia A+
-- 💞️ I’m looking to collaborate on security related projects
+- 👀 I’m interested in Project Management, Scrum, Agile
+- 🌱 I’m currently working on an open source project 
+- 💞️ I’m looking to collaborate softaware related projects
 - 📫 How to reach me GitHub
 
 <!---
