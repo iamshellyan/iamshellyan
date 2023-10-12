@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamshellyan
 - 👀 I’m interested in Project Management, Scrum, Agile
 - 🌱 I’m currently working on an open source project 
-- 💞️ I’m looking to collaborate softaware related projects
+- 💞️ I’m looking to collaborate on software related projects
 - 📫 How to reach me GitHub
 
 <!---
